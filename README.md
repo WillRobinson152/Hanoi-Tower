@@ -2,7 +2,7 @@
 
 This was an assignment I completed for the MITxPro Full Stack Developer program. The result is a web page with a button that completes a move in the Towers of Hanoi game.
 
-<strong>You can view the web page <a href="https://willrobinson152.github.io/PacMen/">here</a>.</strong>
+<strong>You can view the web page <a href="https://willrobinson152.github.io/Hanoi-Tower/">here</a>.</strong>
 
 # Usage
 Download or clone the files in this repository to run locally.
